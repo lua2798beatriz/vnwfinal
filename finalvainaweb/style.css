@@ -1,0 +1,67 @@
+*{
+font-size: 18px;
+color: black;
+font-family: Lato;
+}
+header{
+    align-items:center;
+background-color: white;
+display: inline-flex;
+height: 84px;
+width: 1440px;
+flex-wrap: wrap;
+}
+body{
+font-size: 18px;
+border: 0,2px;
+height: 100%;
+}
+.legenda{
+    align-items: center;
+}
+h1{
+font-family: Lato;
+font-style: normal;
+font-size: 18px;
+display: inline-flex;
+flex-wrap: wrap
+}
+.container-primeiro{
+justify-content: space-between;
+align-items: center;
+display: flex;
+width: auto;
+height: auto;
+font-size: 18px;
+flex-wrap: wrap;
+
+}
+footer{
+    height: 100%;
+    text-align: center;
+    background-color: #f1ebeb;
+    color: rgb(8, 8, 8);
+    font-size: 15px;
+    font-family: helvetica;
+    
+}
+
+.rodape-div{
+    display: flex;
+    flex-wrap: wrap;
+    width:100%;
+    margin: 0%;
+    align-items: stretcsel;
+    padding: 0%;
+    height: auto;
+
+}
+.rodape-div-1, .rodape-div-2{
+    display: display;
+    width: calc(100% / 4 - 20px);
+    padding: 10px;
+}
+
+.imagens-roda{ 
+    align-items: end;
+}
